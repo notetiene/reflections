@@ -9,3 +9,11 @@ automatically stay up-to-date with your remote repository?
      Because it can easily break things. If I make a commit locally & there's
      an other one on the remote repository, there may be some conflicts.
      
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+     Branches are different commits not related to each others. Clones are copies
+     of a repository. Fork is a distant copy of a distant repository.
+     - Branches are good to make experiments.
+     - Clones are good to modify a project locally.
+     - Fork are useful when collaborating & giving credits.
