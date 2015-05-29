@@ -3,10 +3,9 @@ local?
 
      I don't know yet. It seems silly for me.
 
-What are some situations when branches would be helpful in keeping your history
-
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
      Because it can easily break things. If I make a commit locally & there's
      an other one on the remote repository, there may be some conflicts.
+     
